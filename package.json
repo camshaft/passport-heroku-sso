@@ -18,7 +18,10 @@
   "author": "Cameron Bytheway <cameron@pivotapp.io>",
   "license": "MIT",
   "dependencies": {
-    "scmp": "0.0.2",
     "passport-strategy": "~1.0.0"
+  },
+  "devDependencies": {
+    "passport": "~0.1.17",
+    "simple-stack-common": "~0.2.0"
   }
 }
